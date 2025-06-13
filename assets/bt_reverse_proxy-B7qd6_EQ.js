@@ -1,0 +1,1 @@
+const e="/alist-docs/img/guide/reverse_proxy/bt_new_website.png",s="/alist-docs/img/guide/reverse_proxy/bt_new_website_01.png",_="/alist-docs/img/guide/reverse_proxy/bt_delete_default_config_01.png",t="/alist-docs/img/guide/reverse_proxy/bt_delete_default_config_02.png",i="/alist-docs/img/guide/reverse_proxy/bt_reverse_proxy.png";export{e as _,s as a,_ as b,t as c,i as d};
